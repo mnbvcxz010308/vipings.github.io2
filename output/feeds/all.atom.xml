@@ -984,7 +984,7 @@ h6:hover .anchor-link {
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;ul&gt;
-&lt;li&gt;### Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.  &lt;/li&gt;
+&lt;li&gt;####  Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;&lt;p&gt;Extras:&lt;/p&gt;
 &lt;ul&gt;
