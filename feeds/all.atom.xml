@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>VipinGS Blog</title><link href="https://vipings.github.io/" rel="alternate"></link><link href="https://vipings.github.io/feeds/posts.atom.xml" rel="self"></link><id>https://vipings.github.io/</id><updated>2017-10-26T20:00:00+05:30</updated><entry><title>First Post</title><link href="https://vipings.github.io/first-post.html" rel="alternate"></link><published>2017-10-26T20:00:00+05:30</published><updated>2017-10-26T20:00:00+05:30</updated><author><name>Vipin G S</name></author><id>tag:vipings.github.io,2017-10-26:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>VipinGS Blog</title><link href="https://vipings.github.io/" rel="alternate"></link><link href="https://vipings.github.io/feeds/all.atom.xml" rel="self"></link><id>https://vipings.github.io/</id><updated>2017-10-26T20:00:00+05:30</updated><entry><title>First Post</title><link href="https://vipings.github.io/first-post.html" rel="alternate"></link><published>2017-10-26T20:00:00+05:30</published><updated>2017-10-26T20:00:00+05:30</updated><author><name>Vipin G S</name></author><id>tag:vipings.github.io,2017-10-26:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -983,10 +983,7 @@ h6:hover .anchor-link {
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;ul&gt;
-&lt;li&gt;### Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;&lt;p&gt;Extras:&lt;/p&gt;
+&lt;h5 id="Create-a-program-that-asks-the-user-to-enter-their-name-and-their-age.-Print-out-a-message-addressed-to-them-that-tells-them-the-year-that-they-will-turn-100-years-old."&gt;Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.&lt;a class="anchor-link" href="#Create-a-program-that-asks-the-user-to-enter-their-name-and-their-age.-Print-out-a-message-addressed-to-them-that-tells-them-the-year-that-they-will-turn-100-years-old."&gt;¶&lt;/a&gt;&lt;/h5&gt;&lt;blockquote&gt;&lt;p&gt;Extras:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Add on to the previous program by asking the user for another number and printing out that many copies of the previous message. (Hint: order of operations exists in Python)  &lt;/li&gt;
 &lt;li&gt;Print out that many copies of the previous message on separate lines. (Hint: the string "\n is the same as pressing the ENTER button)&lt;/li&gt;
